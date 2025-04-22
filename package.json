@@ -1,7 +1,7 @@
 {
   "name": "my-vite-app",
   "private": true,
-  "homepage": "https://ankushkr930.github.io/my-react-app",
+  "homepage": "https://ankushkr930.github.io/Employee-dashboard",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
